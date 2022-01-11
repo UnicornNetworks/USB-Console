@@ -11,8 +11,8 @@ In response to RustyPearce2027
 
 There is no plan to enable the console port and productise the CLI access to the RV series routers.
 
- 
 
-Regards,
-
-Martin"
+Martin Aleksandrov Cisco Employee Cisco Employee
+In response to UNHAPPY666!
+‎04-05-2021 12:27 AM
+Console port/CLI access and the cable have never been identified in any marketing materials as major product features. The cable is not even listed in the included accessories in the product datasheet. The console port is mentioned for future use only and disabled."
